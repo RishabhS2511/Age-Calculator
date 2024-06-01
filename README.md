@@ -9,6 +9,7 @@ Features
 - Display of the calculated age in years, months, and days.
 
 Getting Started
+
 To use this age calculator:
 
 - Clone the repository to your local machine.
